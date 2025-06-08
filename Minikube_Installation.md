@@ -24,3 +24,6 @@ minikube start --driver=hyperv --cpus=4 --memory=8192  --hyperv-virtual-switch="
 **Step 6:** 
 minikube stop
 minikube delete
+
+**Step 7:**
+ minikube service echo-service --url
