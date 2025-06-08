@@ -22,5 +22,5 @@ Restat_PC
 minikube start --driver=hyperv --cpus=4 --memory=8192  --hyperv-virtual-switch="Default Switch"
 
 **Step 6:** 
-minikube stop
-minikube delete
+#minikube stop
+#minikube delete
