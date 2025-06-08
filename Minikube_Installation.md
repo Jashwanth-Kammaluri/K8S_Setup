@@ -6,9 +6,11 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; `
 [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; `
 iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
-**Step 2:** 	choco -v
+**Step 2:** 	
+choco -v
 
-**Step 3:**  choco install minikube -y
+**Step 3:**  
+choco install minikube -y
 
 **Step 4:** 
 minikube version
