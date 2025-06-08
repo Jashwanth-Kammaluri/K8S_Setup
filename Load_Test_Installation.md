@@ -9,5 +9,7 @@ k6 version
 # Locust 
 
 **Step1** Install Locust
+pip install locust -y
 
-
+**Step2**
+locust --version
