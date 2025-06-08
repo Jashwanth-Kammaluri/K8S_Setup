@@ -8,3 +8,8 @@ Under Stable Releases, look for the latest version (e.g., Python 3.11.x or 3.12.
 
 **Step3:**
 Click the Windows installer (64-bit) if your Windows 11 is 64-bit (which is almost always the case).
+
+**Step4:**
+python --version
+pip --version
+
