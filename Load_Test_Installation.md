@@ -1,4 +1,4 @@
-#k6 (Grafana_Labs)
+# k6 (Grafana_Labs)
 
 **Step:1**
 choco install k6 -y
