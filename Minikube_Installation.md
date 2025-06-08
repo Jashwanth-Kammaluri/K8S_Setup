@@ -21,6 +21,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Tools-All -
 Restat_PC
 minikube start --driver=hyperv --cpus=4 --memory=8192  --hyperv-virtual-switch="Default Switch"
 
+**Step6:** 
+For Metrics
+ minikube addons enable metrics-server
+
 **Step 6:** 
 minikube stop
 minikube delete
