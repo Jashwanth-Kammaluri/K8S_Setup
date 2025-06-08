@@ -5,3 +5,5 @@ choco install k6 -y
 
 **Step:2**
 k6 version
+-----------------------------
+# Locust 
