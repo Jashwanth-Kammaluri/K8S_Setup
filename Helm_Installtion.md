@@ -1,4 +1,5 @@
  ##Install Helm via Chocolatey
+ 
 **Step 1:**
 Open PowerShell as Administrator and run:  choco install kubernetes-helm -y
 
