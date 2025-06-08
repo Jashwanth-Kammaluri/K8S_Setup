@@ -13,3 +13,8 @@ pip install locust -y
 
 **Step2**
 locust --version
+
+**Step3**
+
+locust -f locustfile.py --headless -u 1000 -r 100 --run-time 30s --host http://172.17.26.241:30146
+
