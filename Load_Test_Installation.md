@@ -27,3 +27,6 @@ locust -f locustfile.py --headless -u 1000 -r 100 --run-time 30s --host http://1
 **step4:**
 C:\Users\AI_DeskTop\Desktop\pranav\git_folder\jashwant\JHAP_Core_Jio_MicroServices\device_typing_fastAPI_bkp
 
+
+
+ kubectl port-forward svc/devicetyping-ml 8009:8009 -n jhap-core
