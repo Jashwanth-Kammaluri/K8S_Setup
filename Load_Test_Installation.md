@@ -23,3 +23,7 @@ locust --version
 
 locust -f locustfile.py --headless -u 1000 -r 100 --run-time 30s --host http://172.17.26.241:30146
 
+
+**step4:**
+C:\Users\AI_DeskTop\Desktop\pranav\git_folder\jashwant\JHAP_Core_Jio_MicroServices\device_typing_fastAPI_bkp
+
