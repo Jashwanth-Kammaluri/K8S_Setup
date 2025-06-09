@@ -5,6 +5,11 @@ choco install k6 -y
 
 **Step:2**
 k6 version
+
+**Step:3**
+command to run the script
+k6 run your-script.js
+
 -----------------------------
 # Locust 
 
